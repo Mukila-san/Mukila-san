@@ -33,17 +33,16 @@ Meu objetivo é evoluir constantemente como desenvolvedor, participar de projeto
 
 ## 📂 Projetos em destaque
 
-- [Projeto 1](#) – Breve descrição do projeto.
-- [Projeto 2](#) – Breve descrição do projeto.
-- [Projeto 3](#) – Breve descrição do projeto.
+- [ArenaBR - Vôos e Jogos](https://github.com/Mukila-san/UNIDADE_3_Engenharia_de_Prompt_Aplicacoes_AI) – Plataforma que conecta fãs brasileiros da NBA aos melhores jogos e voos para assistir partidas ao vivo nos EUA..
+- [Jogo da Forca em Python](https://github.com/Mukila-san/UNIDADE_2_Engenharia_de_Prompt_Aplicacoes_AI/tree/main) – Um protótipo extremamente simples do clássico Jogo da Forca, desenvolvido em Python com o objetivo de praticar conceitos básicos de programação, como estruturas condicionais, laços de repetição, listas e manipulação de strings.
 
 ---
 
 ## 🌐 Onde me encontrar
 
-- 💼 LinkedIn: [Meu LinkedIn](#)
-- 🐙 GitHub: [Meus repositórios](https://github.com/)
-- 📧 E-mail: seuemail@email.com
+- 💼 LinkedIn: [Meu LinkedIn](https://www.linkedin.com/in/samuel-cecilio-8ab8493a7)
+- 🐙 GitHub: [Meus repositórios]([https://github.com/](https://github.com/Mukila-san?tab=repositories))
+- 📧 E-mail: ceciliosamuel08@gmail.com
 
 ---
 
